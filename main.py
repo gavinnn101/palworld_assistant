@@ -2,6 +2,7 @@ import pyautogui
 import keyboard
 import threading
 
+
 # GLOBALS
 TOGGLE_KEY = "`"
 END_KEY = "esc"

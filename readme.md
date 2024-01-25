@@ -3,7 +3,7 @@
 Easy afk crafting with this script that has a toggle to hold down a key for you.
 
 ## Setup
-1. Install python if you don't already have it - https://www.python.org/downloads/
+1. Install python if you don't already have it - https://www.python.org/downloads/ (Make sure to check the box to `Add python to PATH`)
 2. In the folder where this file is located, press `shift + right-click` -> `open powershell window here`.
 3. Type and enter `pip install -r requirements.txt`.
 
